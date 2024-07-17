@@ -1,5 +1,5 @@
 # Air_Quality_Interpolation
-Advanced Data Cleaning, Transformation, and Interpolation for Air Quality Time-Series Analysis
+Data Cleaning, Transformation, and Interpolation for Air Quality Time-Series Analysis
 
 - Data Cleaning and Preprocessing:
   - Imported data from CSV, removed completely empty rows and columns, and cleaned columns with significant missing data.
